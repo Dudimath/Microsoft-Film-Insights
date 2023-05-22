@@ -1,7 +1,7 @@
 # Eploring Film Performance at the Box Office
 forex1.jpg
 
-#Introduction
+# Introduction
 The film industry is a dynamic and a highly competetive industry where success or failure of a movie can have significant
 
 financial implications in movie authors and the actors. Understanding the factors that contribute to a film performance at
@@ -10,21 +10,21 @@ the box office comes so handy and crucial to the filmmakers,productions studios,
 
 at exploring film performance at the box office using Data Analysis techniques in order to gain insights and make informed decisions.
 
-#Problem Statement
+# Problem Statement
 This project adresses the challenge of identifying the key factors thtat influence the film success at box office. By analyzing
 
 a dataset of films box office revenues, we aim to uncover patterns,trends and relationships between different variables such as
 
 genre,budgets, release dates and revenue.
 
-#Main Objective
+# Main Objective
 To analyze the dataset of film box office revenues and gain insights into factors that contribute and influence
 
 the film performance of movies at box office. By conducting visualizations and data analysis, we aim at identifying
 
 patterns and trends that can help filmmakers and stakeholders to make data driven decisions in the film industry.
 
-#Specific Objectives
+# Specific Objectives
 Explore performance of different genres and their corresponding revenues to identify genre speific trends.
 
 Investigate the relationship between budget and revenue to determine the impact of investment on film success.
@@ -33,7 +33,7 @@ Examine the average revenue per month to identify seasonal trends and patterns.
 
 Analyze the total film revenue per year to understand the overall performance of the industry overtime.
 
-#Notebook structure
+# Notebook structure
 1. Reading the Data.
 
 2. Data Wrangling/Cleaning.
@@ -42,7 +42,7 @@ Analyze the total film revenue per year to understand the overall performance of
 
 4. Data Preprocessing.
 
-#Data Understanding
+# Data Understanding
 The dataset used for this project contains information about film box office revenues including variables such as release
 
 dates, genres, budgets and revenues. Explanatory data analysis techniques will be used to get clear understanding of the
@@ -51,7 +51,7 @@ dataset including handling missing values, checking data types, identifying outl
 
 relevant features for analysis.
 
-#Methodology
+# Methodology
 This project will utilize various data analysis and visualization techniques in python including python libraries such as
 
 pandas and matplotlib. The dataset present for this project will be explored through descriptive statistics, group-wise
@@ -60,7 +60,7 @@ analysis and visualizations. Key relationship and trends will be identified to p
 
 performance at box office.
 
-#Conclusions
+# Conclusions
 1 Total revenue has shown a significant increase over the years indicating a significant positive trend in the performance of
 
 in box office.
