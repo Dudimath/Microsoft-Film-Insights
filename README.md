@@ -43,6 +43,10 @@ patterns and trends that can help filmmakers and stakeholders to make data drive
 
 4. Data Preprocessing.
 
+5. Conclusions
+
+6.Recommendations
+
 # Data Understanding
 The dataset used for this project contains information about film box office revenues including variables such as release
 
