@@ -1,4 +1,5 @@
 # Eploring Film Performance at  Microsoft Films
+![Uploading forex1.jpg…]()
 
 # Introduction
 The film industry is a dynamic and a highly competetive industry where success or failure of a movie can have significant
