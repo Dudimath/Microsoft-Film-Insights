@@ -1,5 +1,4 @@
-# Eploring Film Performance at the Box Office
-forex1.jpg
+# Eploring Film Performance at  Microsoft Films
 
 # Introduction
 The film industry is a dynamic and a highly competetive industry where success or failure of a movie can have significant
@@ -61,37 +60,37 @@ analysis and visualizations. Key relationship and trends will be identified to p
 performance at box office.
 
 # Conclusions
-1 Total revenue has shown a significant increase over the years indicating a significant positive trend in the performance of
+1. Total revenue has shown a significant increase over the years indicating a significant positive trend in the performance of
 
-in box office.
+   in box office.
 
-2 Monthly revenue Anlysis reveals seasonal trends in film performance at box office, certain months such as summer and holiday
+2. Monthly revenue Anlysis reveals seasonal trends in film performance at box office, certain months such as summer and holiday
 
-tend to have higher revenue averages indicating peak periods for moviegoers.
+   tend to have higher revenue averages indicating peak periods for moviegoers.
 
-3 There is a positive relationship between a films budget and its revenue , suggesting that higher investment in production
+3. There is a positive relationship between a films budget and its revenue , suggesting that higher investment in production
 
-tend to yield higher returns.
+   tend to yield higher returns.
 
 4.Certain studios consistently generate higher revenues indicating their strong position in the industry. This can help
 
-investors and collaborators to make informed decisions about investments and collaborations.
+   investors and collaborators to make informed decisions about investments and collaborations.
 
 # Recommendations
-1.Strategic Release Dates: One should consider the seasoanal trends and patterns in box office performance before making releases
+1. Strategic Release Dates: One should consider the seasoanal trends and patterns in box office performance before making releases
 
-2.One should release movies during peak to capitalize on increased audience attendance and higher revenues.
+2. One should release movies during peak to capitalize on increased audience attendance and higher revenues.
 
-3.Budget Allocation: While higher budget can increase the production value and attract more viewers, it is important to
+3. Budget Allocation: While higher budget can increase the production value and attract more viewers, it is important to
 
-allocate budgets strategically. Consider the target audience, genre and the market demand to determine the perfect budget for
+   allocate budgets strategically. Consider the target audience, genre and the market demand to determine the perfect budget for
 
-a film.
+    a film.
 
 4.Genre Analysis and Targeting: Understand the revenue potential and audience preference for different genres.Identify genres
 
-that align with production studio's srengths and market demand.
+   that align with production studio's srengths and market demand.
 
 5.Collaboration and Partnership: Explore collaborations and partnerships with established studios, directors, or industry
 
-professionals and actors who have a track record of successful box office performance.
+  professionals and actors who have a track record of successful box office performance.
