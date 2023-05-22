@@ -77,7 +77,7 @@ tend to yield higher returns.
 
 investors and collaborators to make informed decisions about investments and collaborations.
 
-#Recommendations
+# Recommendations
 1.Strategic Release Dates: One should consider the seasoanal trends and patterns in box office performance before making releases
 
 2.One should release movies during peak to capitalize on increased audience attendance and higher revenues.
