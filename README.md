@@ -70,8 +70,8 @@ performance at box office.
 3. There is a positive relationship between a films budget and its revenue , suggesting that higher investment in production
    tend to yield higher returns.
 
-4.Certain studios consistently generate higher revenues indicating their strong position in the industry. This can help
-  investors and collaborators to make informed decisions about investments and collaborations.
+4. Certain studios consistently generate higher revenues indicating their strong position in the industry. This can help
+   investors and collaborators to make informed decisions about investments and collaborations.
 
 # Recommendations
 1. Strategic Release Dates: One should consider the seasoanal trends and patterns in box office performance before making releases
@@ -80,7 +80,7 @@ performance at box office.
 
 3. Budget Allocation: While higher budget can increase the production value and attract more viewers, it is important to  allocate          budgets strategically. Consider the target audience, genre and the market demand to determine the perfect budget for a film.
 
-4.Genre Analysis and Targeting: Understand the revenue potential and audience preference for different genres.Identify genres  that align   with production studio's srengths and market demand.
+4. Genre Analysis and Targeting: Understand the revenue potential and audience preference for different genres.Identify genres  that        align with production studio's srengths and market demand.
  
-5.Collaboration and Partnership: Explore collaborations and partnerships with established studios, directors, or industry
-  professionals and actors who have a track record of successful box office performance.
+5. Collaboration and Partnership: Explore collaborations and partnerships with established studios, directors, or industry
+   professionals and actors who have a track record of successful box office performance.
