@@ -1,4 +1,4 @@
-#Eploring Film Performance at the Box Office
+# Eploring Film Performance at the Box Office
 forex1.jpg
 
 #Introduction
