@@ -83,13 +83,13 @@ performance at box office.
 
 3. Budget Allocation: While higher budget can increase the production value and attract more viewers, it is important to
 
-   allocate budgets strategically. Consider the target audience, genre and the market demand to determine the perfect budget for
+  allocate budgets strategically. Consider the target audience, genre and the market demand to determine the perfect budget for
 
-    a film.
+  a film.
 
 4.Genre Analysis and Targeting: Understand the revenue potential and audience preference for different genres.Identify genres
 
-   that align with production studio's srengths and market demand.
+  that align with production studio's srengths and market demand.
 
 5.Collaboration and Partnership: Explore collaborations and partnerships with established studios, directors, or industry
 
