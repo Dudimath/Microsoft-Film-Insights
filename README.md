@@ -1,6 +1,6 @@
 # Eploring Film Performance at  Microsoft Films
 
-![forex](C:\Users\USER\OneDrive\Desktop\Dudi\forex1.jpg)
+![forex](https://mg.co.za/wp-content/uploads/2023/01/f53b607f-forex.jpg)
 
 # Introduction
 The film industry is a dynamic and a highly competetive industry where success or failure of a movie can have significant
