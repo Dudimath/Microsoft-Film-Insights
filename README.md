@@ -1,4 +1,4 @@
-# Eploring Film Performance at  Microsoft Films
+# Epxloring Film Performance at Box Office
 
 ![forex](https://mg.co.za/wp-content/uploads/2023/01/f53b607f-forex.jpg)
 
