@@ -26,13 +26,13 @@ the film performance of movies at box office. By conducting visualizations and d
 patterns and trends that can help filmmakers and stakeholders to make data driven decisions in the film industry.
 
 # Specific Objectives
-Explore performance of different genres and their corresponding revenues to identify genre speific trends.
+1. Explore performance of different genres and their corresponding revenues to identify genre speific trends.
 
-Investigate the relationship between budget and revenue to determine the impact of investment on film success.
+2. Investigate the relationship between budget and revenue to determine the impact of investment on film success.
 
-Examine the average revenue per month to identify seasonal trends and patterns.
+3. Examine the average revenue per month to identify seasonal trends and patterns.
 
-Analyze the total film revenue per year to understand the overall performance of the industry overtime.
+4. Analyze the total film revenue per year to understand the overall performance of the industry overtime.
 
 # Notebook structure
 1. Reading the Data.
@@ -42,6 +42,10 @@ Analyze the total film revenue per year to understand the overall performance of
 3. Exploratory Data Analysis.
 
 4. Data Preprocessing.
+
+5. Conclusions
+
+6. Recommendations
 
 # Data Understanding
 The dataset used for this project contains information about film box office revenues including variables such as release
@@ -62,20 +66,15 @@ analysis and visualizations. Key relationship and trends will be identified to p
 performance at box office.
 
 # Conclusions
-1. Total revenue has shown a significant increase over the years indicating a significant positive trend in the performance of
-
-   in box office.
+1. Total revenue has shown a significant increase over the years indicating a significant positive trend in the performance of in box        office.
 
 2. Monthly revenue Anlysis reveals seasonal trends in film performance at box office, certain months such as summer and holiday
-
    tend to have higher revenue averages indicating peak periods for moviegoers.
 
 3. There is a positive relationship between a films budget and its revenue , suggesting that higher investment in production
-
    tend to yield higher returns.
 
-4.Certain studios consistently generate higher revenues indicating their strong position in the industry. This can help
-
+4. Certain studios consistently generate higher revenues indicating their strong position in the industry. This can help
    investors and collaborators to make informed decisions about investments and collaborations.
 
 # Recommendations
@@ -83,16 +82,9 @@ performance at box office.
 
 2. One should release movies during peak to capitalize on increased audience attendance and higher revenues.
 
-3. Budget Allocation: While higher budget can increase the production value and attract more viewers, it is important to
+3. Budget Allocation: While higher budget can increase the production value and attract more viewers, it is important to  allocate          budgets strategically. Consider the target audience, genre and the market demand to determine the perfect budget for a film.
 
-  allocate budgets strategically. Consider the target audience, genre and the market demand to determine the perfect budget for
-
-  a film.
-
-4.Genre Analysis and Targeting: Understand the revenue potential and audience preference for different genres.Identify genres
-
-  that align with production studio's srengths and market demand.
-
-5.Collaboration and Partnership: Explore collaborations and partnerships with established studios, directors, or industry
-
-  professionals and actors who have a track record of successful box office performance.
+4. Genre Analysis and Targeting: Understand the revenue potential and audience preference for different genres.Identify genres  that        align with production studio's srengths and market demand.
+ 
+5. Collaboration and Partnership: Explore collaborations and partnerships with established studios, directors, or industry
+   professionals and actors who have a track record of successful box office performance.
