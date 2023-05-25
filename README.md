@@ -12,14 +12,10 @@ the box office comes so handy and crucial to the filmmakers,productions studios,
 at exploring film performance at the box office using Data Analysis techniques in order to gain insights and make informed decisions.
 
 # Problem Statement
-This project adresses the challenge of identifying the key factors thtat influence the film success at box office. By analyzing a dataset of films box office revenues, we aim to uncover patterns,trends and relationships between different variables such as
-
-genre,budgets, release dates and revenue.
+This project adresses the challenge of identifying the key factors thtat influence the film success at box office. By analyzing a dataset of films box office revenues, we aim to uncover patterns,trends and relationships between different variables such as genre,budgets, release dates and revenue.
 
 # Main Objective
-To analyze the dataset of film box office revenues and gain insights into factors that contribute and influence the film performance of movies at box office. By conducting visualizations and data analysis, we aim at identifying
-
-patterns and trends that can help filmmakers and stakeholders to make data driven decisions in the film industry.
+To analyze the dataset of film box office revenues and gain insights into factors that contribute and influence the film performance of movies at box office. By conducting visualizations and data analysis, we aim at identifying patterns and trends that can help filmmakers and stakeholders to make data driven decisions in the film industry.
 
 # Specific Objectives
 1. Explore performance of different genres and their corresponding revenues to identify genre speific trends.
@@ -47,9 +43,7 @@ patterns and trends that can help filmmakers and stakeholders to make data drive
 The dataset used for this project contains information about film box office revenues including variables such as release dates, genres, budgets and revenues. Explanatory data analysis techniques will be used to get clear understanding of the dataset including handling missing values, checking data types, identifying outliers and placeholder values and also extracting relevant features for analysis.
 
 # Methodology
-This project will utilize various data analysis and visualization techniques in python including python libraries such as pandas and matplotlib. The dataset present for this project will be explored through descriptive statistics, group-wise analysis and visualizations. Key relationship and trends will be identified to provide insights into factors influencing firm
-
-performance at box office.
+This project will utilize various data analysis and visualization techniques in python including python libraries such as pandas and matplotlib. The dataset present for this project will be explored through descriptive statistics, group-wise analysis and visualizations. Key relationship and trends will be identified to provide insights into factors influencing firm performance at box office.
 
 # Conclusions
 1. Total revenue has shown a significant increase over the years indicating a significant positive trend in the performance of in box        office.
