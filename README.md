@@ -3,13 +3,7 @@
 ![forex](https://mg.co.za/wp-content/uploads/2023/01/f53b607f-forex.jpg)
 
 # Introduction
-The film industry is a dynamic and a highly competetive industry where success or failure of a movie can have significant
-
-financial implications in movie authors and the actors. Understanding the factors that contribute to a film performance at
-
-the box office comes so handy and crucial to the filmmakers,productions studios, and investors. This project therefore aims
-
-at exploring film performance at the box office using Data Analysis techniques in order to gain insights and make informed decisions.
+The film industry is a dynamic and a highly competetive industry where success or failure of a movie can have significant financial implications in movie authors and the actors. Understanding the factors that contribute to a film performance at the box office comes so handy and crucial to the filmmakers,productions studios, and investors. This project therefore aims at exploring film performance at the box office using Data Analysis techniques in order to gain insights and make informed decisions.
 
 # Problem Statement
 This project adresses the challenge of identifying the key factors thtat influence the film success at box office. By analyzing a dataset of films box office revenues, we aim to uncover patterns,trends and relationships between different variables such as genre,budgets, release dates and revenue.
